@@ -24,6 +24,6 @@ Performs regex-based keyword and format validation.
 Generates an ATS score and visual feedback via interactive graphs.
 Exports the reviewed resume and feedback as formatted PDF/DOCX reports.
 
-Goal
+## Goal
 
 To provide developers and job seekers with a robust, AI-assisted tool for assessing and optimizing resumes to meet ATS standards.
