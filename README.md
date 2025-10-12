@@ -1,4 +1,4 @@
-#ATS-Resume Reviewer and Score Generator
+# ATS-Resume Reviewer and Score Generator
 
 ATS-Resume Reviewer and Score Generator is a Streamlit-based web app that analyzes resumes for ATS (Applicant Tracking System) compatibility. It extracts, evaluates, and scores resumes based on structure, keyword usage, and job relevance using Google’s Generative AI.
 The app supports PDF and DOCX formats, providing detailed feedback and improvement suggestions. It also visualizes scoring insights using interactive Plotly charts and allows exporting reviewed reports as professionally formatted PDF or DOCX files.
