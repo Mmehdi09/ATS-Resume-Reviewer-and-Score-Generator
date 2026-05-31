@@ -59,6 +59,9 @@ By combining artificial intelligence, keyword analysis, and automated document p
 * Python
 * dotenv
 * os
+  
+# System Workflow
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4d652277-4076-4c6b-94b2-40dec583218a" />
 
 ## Project Impact
 
